@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # Python Project & Packaging Guide (for Python Devs)
 
 > **Context:** This guide is for client X projects. Names and repos here are generic; adjust to your actual repos when you copy this into a real project.
@@ -649,4 +646,3 @@ pip install -r requirements.txt
 > **Team rule:** Prefer `uv` for all new work. Use pip only if there is a strong reason (e.g. tooling limitation) and follow the documented fallback path.
 
 ---
-```
